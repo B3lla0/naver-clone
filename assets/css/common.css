@@ -1,0 +1,36 @@
+/* common */
+:root {
+  --main-color: #03c75a;
+  --border-color: #ebebeb;
+  --black-color: #000000;
+  --white-color: #ffffff;
+  --font-primary: #101010;
+  --font-secondary: #404040;
+  --font-tertiary: #606060;
+  --bg-primary: #d3d5d7;
+  --bg-secondary: #f5f6f7;
+  --news: #3a67ea;
+  --content-header: #5290ff;
+}
+
+body {
+  font-size: 14px;
+  font-family: -apple-system, BlinkMacSystemFont, "Malgun Gothic", "맑은 고딕",
+    helvetica, "Apple SD Gothic Neo", sans-serif;
+}
+
+a {
+  color: unset;
+  text-decoration: unset;
+}
+
+button {
+  padding: 0;
+  background-color: unset;
+  border: none;
+  font-size: medium;
+}
+
+strong {
+  font-weight: bold;
+}
