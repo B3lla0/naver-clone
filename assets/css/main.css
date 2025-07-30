@@ -235,6 +235,9 @@
 }
 
 /* left_contents_wrap */
+.left_contents_wrap {
+  width: 830px;
+}
 .swiper-slide > a > img {
   width: 100%;
   height: 100%;
@@ -707,7 +710,7 @@ ul[data-type="news_stand"] > li:nth-of-type(2)::before {
 
 /* right_contents_wrap */
 .right_contents_wrap {
-  width: 420px;
+  width: 430px;
   margin-left: 30px;
 }
 
