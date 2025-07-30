@@ -13,7 +13,7 @@
   display: block;
   width: 32px;
   height: 32px;
-  background-image: url(/assets/image/sp_main.04eb92b7.png);
+  background-image: url(../../assets/image/sp_main.04eb92b7.png);
   background-size: 463px 442px;
   background-repeat: no-repeat;
   cursor: pointer;
@@ -81,7 +81,7 @@
 .btn_keyboard,
 .btn_arrow {
   margin-right: 10px;
-  background-image: url(/assets/image/sp_main.04eb92b7.png);
+  background-image: url(../../assets/image/sp_main.04eb92b7.png);
   background-size: 463px 442px;
   background-repeat: no-repeat;
 }
@@ -101,7 +101,7 @@
 .search_icon {
   display: block;
   padding: 17px 27px 16px 10px;
-  background-image: url(/assets/image/search_icon.svg);
+  background-image: url(../../assets/image/search_icon.svg);
   background-size: 25px;
   background-position: 25% 50%;
   background-repeat: no-repeat;
@@ -132,7 +132,7 @@
   left: 0;
   width: 50px;
   height: 50px;
-  background-image: url(/assets/image/sp_main.04eb92b7.png);
+  background-image: url(../../assets/image/sp_main.04eb92b7.png);
   background-size: 463px 442px;
   background-position: -153px -142px;
   background-repeat: no-repeat;
@@ -159,7 +159,7 @@
   position: absolute;
   width: 40px;
   height: 40px;
-  background-image: url(/assets/image/sp_main.04eb92b7.png);
+  background-image: url(../../assets/image/sp_main.04eb92b7.png);
   background-size: 463px 442px;
   background-repeat: no-repeat;
 }
@@ -207,7 +207,7 @@
 
 .service_menu_area > li > .service_chzzk::before {
   background-size: 40px 40px;
-  background-image: url(/assets/image/chzzk_icon.png);
+  background-image: url(../../assets/image/chzzk_icon.png);
   background-repeat: no-repeat;
 }
 
@@ -306,7 +306,7 @@ ul[data-type="news_stand"] > li:nth-of-type(2)::before {
   width: 9px;
   height: 6px;
   margin-left: 5px;
-  background-image: url(/assets/image/sp_main.04eb92b7.png);
+  background-image: url(../../assets/image/sp_main.04eb92b7.png);
   background-size: 463px 442px;
   background-position: -453px -436px;
   background-repeat: no-repeat;
@@ -577,7 +577,7 @@ ul[data-type="news_stand"] > li:nth-of-type(2)::before {
   left: 50%;
   width: 10px;
   height: 12px;
-  background-image: url(/assets/image/sp_main.6bbd194f.png);
+  background-image: url(../../assets/image/sp_main.6bbd194f.png);
   background-size: 468px 456px;
   background-repeat: no-repeat;
   transform: translate(-50%, -50%);
@@ -730,7 +730,7 @@ ul[data-type="news_stand"] > li:nth-of-type(2)::before {
 
 .login_logo {
   display: inline-block;
-  background-image: url(/assets/image/sp_main.6bbd194f.png);
+  background-image: url(../../assets/image/sp_main.6bbd194f.png);
   background-size: 468px 456px;
   background-position: -130px -300px;
   width: 72px;
@@ -806,7 +806,7 @@ ul[data-type="news_stand"] > li:nth-of-type(2)::before {
   width: 12px;
   height: 12px;
   margin-right: 2px;
-  background-image: url(/assets/image/sp_main.04eb92b7.png);
+  background-image: url(../../assets/image/sp_main.04eb92b7.png);
   background-size: 463px 442px;
   background-position: -104px -430px;
   background-repeat: no-repeat;
@@ -836,7 +836,7 @@ ul[data-type="news_stand"] > li:nth-of-type(2)::before {
   width: 86px;
   height: 86px;
   margin-right: 4px;
-  background-image: url(/assets/image/sp_weather.11654bc0.png);
+  background-image: url(../../assets/image/sp_weather.11654bc0.png);
   background-size: 641px 587px;
   background-position: 0px 0px;
   background-repeat: no-repeat;
@@ -911,7 +911,7 @@ ul[data-type="news_stand"] > li:nth-of-type(2)::before {
 .weather_variation {
   display: flex;
   margin-left: 24px;
-  background-image: url(/assets/image/weather_graph.png);
+  background-image: url(../../assets/image/weather_graph.png);
   background-size: 190px 120px;
   background-repeat: no-repeat;
   background-position: -5px 0px;
@@ -963,7 +963,7 @@ ul[data-type="news_stand"] > li:nth-of-type(2)::before {
   left: 0;
   width: 14px;
   height: 14px;
-  background-image: url(/assets/image/sp_main.6bbd194f.png);
+  background-image: url(../../assets/image/sp_main.6bbd194f.png);
   background-size: 468px 456px;
   background-repeat: no-repeat;
   background-position: -340px -351px;
@@ -979,7 +979,7 @@ ul[data-type="news_stand"] > li:nth-of-type(2)::before {
   display: inline-block;
   width: 16px;
   height: 16px;
-  background-image: url(/assets/image/sp_main.6bbd194f.png);
+  background-image: url(../../assets/image/sp_main.6bbd194f.png);
   background-size: 468px 456px;
   background-repeat: no-repeat;
   background-position: -318px -334px;
@@ -1053,7 +1053,7 @@ ul[data-type="news_stand"] > li:nth-of-type(2)::before {
   position: absolute;
   top: 11px;
   right: 0;
-  background-image: url(/assets/image/sp_main.6bbd194f.png);
+  background-image: url(../../assets/image/sp_main.6bbd194f.png);
   background-size: 468px 456px;
   background-position: -457px -160px;
   background-repeat: no-repeat;
@@ -1095,7 +1095,7 @@ ul[data-type="news_stand"] > li:nth-of-type(2)::before {
   display: inline-block;
   width: 12px;
   height: 12px;
-  background-image: url(/assets/image/sp_main.6bbd194f.png);
+  background-image: url(../../assets/image/sp_main.6bbd194f.png);
   background-size: 468px 456px;
   background-repeat: no-repeat;
   background-position: -395px -420px;
@@ -1141,7 +1141,7 @@ ul[data-type="news_stand"] > li:nth-of-type(2)::before {
   height: 12px;
   margin: 3px 0 0 10px;
   vertical-align: top;
-  background-image: url(/assets/image/sp_main.04eb92b7.png);
+  background-image: url(../../assets/image/sp_main.04eb92b7.png);
   background-size: 463px 442px;
   background-position: -453px -245px;
   background-repeat: no-repeat;
