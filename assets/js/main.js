@@ -31,7 +31,7 @@ document.querySelectorAll(".tab_contents_wrap").forEach((wrap) => {
   });
 });
 
-const url = "../assets/data/weather.json";
+const url = "../../assets/data/weather.json";
 
 // 날씨
 fetch(url)
