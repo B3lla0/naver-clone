@@ -1007,9 +1007,6 @@ ul[data-type="news_stand"] > li:nth-of-type(2)::before {
   line-height: 22px;
 }
 
-.daily_stock {
-}
-
 .type_down,
 .type_up {
   font-size: 11px;
@@ -1021,7 +1018,7 @@ ul[data-type="news_stand"] > li:nth-of-type(2)::before {
   display: inline-block;
   width: 12px;
   height: 12px;
-  background-image: url(https://pm.pstatic.net/resources/asset/sp_main.6bbd194f.png);
+  background-image: url(../../assets/image/sp_main.6bbd194f.png);
   background-size: 468px 456px;
   background-repeat: no-repeat;
   vertical-align: middle;
