@@ -31,7 +31,7 @@ document.querySelectorAll(".tab_contents_wrap").forEach((wrap) => {
   });
 });
 
-const url = "../../assets/data/weather.json";
+const url = "../assets/data/weather.json";
 
 // 날씨
 fetch(url)
@@ -58,7 +58,6 @@ fetch(url)
     }
 
     document.getElementById("condition").textContent = condition;
-    console.log("test");
 
     // 최근 기온, 시간 5개 출력
     const recentData = json.data.slice(-5); // 최근 5개 정보
