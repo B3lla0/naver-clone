@@ -2,7 +2,7 @@
 - 작업기간: 2025.06 ~ 2025.06
 - 기여도: 퍼블리싱 100%
 - 사용기술: HTML5, CSS3, JavaScript
-- [https://b3lla0.github.io/soorim-clone/](https://b3lla0.github.io/naver-clone/)
+- https://b3lla0.github.io/naver-clone/
 
 ```
 {
@@ -58,3 +58,4 @@ fetch(url)
   });
 ```
 json 파일을 이용하여 현재 기온, 최고/최저 기온, 상태, 최근 5개 기록을 화면에 표시
+
